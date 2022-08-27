@@ -1,0 +1,2 @@
+# practicearea
+Repo about exercise 
